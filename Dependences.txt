@@ -1,1 +1,1 @@
-You need to have installed Git.
+You need to have installed Git and Python.
